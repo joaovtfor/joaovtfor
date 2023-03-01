@@ -1,9 +1,10 @@
-# Olá!!
-### Me chamo João Vitor, tenho 20 anos.
 <div>
-  <a href="https://github.com/joaovtfor"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=joaovtfor&show_icons=true&bg_color=DEG,1C1C1C,778899&title_color=DCDCDC&text_color=DCDCDC&icon_color=C0C0C0&border_color=F8F8FF&custom_title=Stats"/>
-  <img width="48%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=joaovtfor&custom_title=Languages&&show_icons=true&bg_color=DEG,1C1C1C,778899&title_color=DCDCDC&text_color=DCDCDC&icon_color=C0C0C0&border_color=F8F8FF
+  <h1 align="center">Olá!!</h1>
+  <h3 align="center">Me chamo João Vitor, tenho 20 anos.</h3>
+</div>
+<div>
+  |<a href="https://github.com/joaovtfor"><img width="48%" height="290em"src="https://github-readme-stats.vercel.app/api?username=joaovtfor&show_icons=true&bg_color=DEG,1C1C1C,778899&title_color=DCDCDC&text_color=DCDCDC&icon_color=C0C0C0&hide_border=true&custom_title=Stats"/></a>|<a href="https://github.com/joaovtfor"><img width="48%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=joaovtfor&custom_title=Languages&show_icons=true&bg_color=DEG,778899,1C1C1C&title_color=DCDCDC&text_color=DCDCDC&icon_color=C0C0C0&hide_border=true&layout=compact
+  | ------------- | ------------- |
 </div> 
 <div>
    <a href="https://wa.me/5554999303946"/>
@@ -18,4 +19,4 @@
    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-   <div/>
+ </div>
