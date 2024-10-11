@@ -19,7 +19,7 @@
   <h3>(/≧▽≦)/</h3>
 </div>-->
 
-<div>
+<div style="display:flex;">
   <div>
     <a href="https://wa.me/5554999303946" target="_blank"/>
     <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
