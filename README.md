@@ -33,14 +33,14 @@
     <img alt="E-Mail" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
   </div>
   <div>  
-    <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-de-for-dos-santos-88a56626b/" target="_blank">
+    <a href="https://www.linkedin.com/in/joaovtfor/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </div>
 </div>
 
 <picture>
-  <source srcset="https://raw.githubusercontent.com/joaovtfor/joaovtfor/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/joaovtfor/joaovtfor/output/github-contribution-grid-snake.svg">
+  <source srcset="https://github.com/joaovtfor/joaovtfor/blob/output/github-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/joaovtfor/joaovtfor/blob/output/github-snake-dark.svg">
 </picture>
 
 <!-- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> -->
