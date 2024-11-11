@@ -31,9 +31,11 @@
 
 </div>
 
-<picture>
-  <source srcset="https://github.com/joaovtfor/joaovtfor/blob/output/github-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/joaovtfor/joaovtfor/blob/output/github-snake-dark.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source srcset="https://github.com/joaovtfor/joaovtfor/blob/output/github-snake-dark.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/joaovtfor/joaovtfor/blob/output/github-snake-dark.svg">
+  </picture>
+</div>
 
 <!-- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> -->
