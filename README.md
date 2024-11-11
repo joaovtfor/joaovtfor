@@ -15,11 +15,7 @@
   <a href="https://github.com/joaovtfor"><img width="48%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=joaovtfor&custom_title=Languages&show_icons=true&bg_color=DEG,778899,1C1C1C&title_color=DCDCDC&text_color=DCDCDC&icon_color=C0C0C0&hide_border=true&layout=compact /></a>
 </div>
 
-<!--<div align="right">
-  <h3>(/≧▽≦)/</h3>
-</div>-->
-
-<div style="display:flex;">
+<div align="center">
 
   <a href="https://wa.me/5554999303946" target="_blank"/>
   <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
