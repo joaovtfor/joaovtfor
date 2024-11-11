@@ -20,22 +20,19 @@
 </div>-->
 
 <div style="display:flex;">
-  <div>
-    <a href="https://wa.me/5554999303946" target="_blank"/>
-    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </div>
-  <div>  
-    <a href="https://www.instagram.com/joaovtfor" target="_blank"/>
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </div>
-  <div>  
-    <a href = "mailto: joaovtfor@hotmail.com" target="_blank"/>
-    <img alt="E-Mail" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
-  </div>
-  <div>  
-    <a href="https://www.linkedin.com/in/joaovtfor/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </div>
+
+  <a href="https://wa.me/5554999303946" target="_blank"/>
+  <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+
+  <a href="https://www.instagram.com/joaovtfor" target="_blank"/>
+  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+
+  <a href = "mailto: joaovtfor@hotmail.com" target="_blank"/>
+  <img alt="E-Mail" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+
+  <a href="https://www.linkedin.com/in/joaovtfor/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </div>
 
 <picture>
