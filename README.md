@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lilita+One&duration=2000&pause=500&color=698AE1&center=true&vCenter=true&width=435&lines=Hey!++%F0%9F%91%88(%EF%BE%9F%E3%83%AE%EF%BE%9F%F0%9F%91%88);I'm+Jo%C3%A3o+Vitor;I'm+a+Full-Stack+Developer;Welcome+to+my+profile!" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lilita+One&size=32&duration=2000&pause=500&color=698AE1&center=true&vCenter=true&width=435&lines=Hey!++%F0%9F%91%88(%EF%BE%9F%E3%83%AE%EF%BE%9F%F0%9F%91%88);I'm+Jo%C3%A3o+Vitor;I'm+a+Full-Stack+Developer;Welcome+to+my+profile!" alt="Typing SVG" /></a>
 </div>
 
 ##
@@ -12,12 +12,14 @@
 
 ##
 
-<div align="center">
-  <h2 align="center" style="color: #FFFFFF; font-family:Noto Sans">Contacts</h2>
-  <a href="https://www.instagram.com/joaovtfor" target="_blank" rel="noopener"/><img alt="Instagram" src="https://img.icons8.com/?size=50&id=32309&format=png&color=666666"/></a>
-  <a href="https://wa.me/5554999303946" target="_blank" rel="noopener"/><img alt="WhatsApp" src="https://img.icons8.com/?size=50&id=16733&format=png&color=666666"/></a>
-  <a href="https://www.linkedin.com/in/joaovtfor/" target="_blank" rel="noopener"/><img alt="LinkedIn" src="https://img.icons8.com/?size=50&id=8808&format=png&color=666666"/></a>
-  <a href="mailto: joaovtfor@hotmail.com" target="_blank" rel="noopener"/><img alt="E-Mail" src="https://img.icons8.com/?size=50&id=12623&format=png&color=666666"/></a>
+<div align="center" style="display: flex; flex-direction: column;">
+  <h2 align="center" style="color: #FFFFFF; font-family: Noto Sans; font-size: 32px">Contacts</h2>
+  <div style="margin-left: 60px; margin-right: 60px; display: flex; flex-direction: row; justify-content: space-around;">
+    <a href="https://www.instagram.com/joaovtfor" target="_blank" rel="noopener" onmouseover="this.style.color='orange';" onmouseout="this.style.color=''"><img alt="Instagram" src="https://img.icons8.com/?size=50&id=32309&format=png&color=EDEDED"/></a>
+    <a href="https://wa.me/5554999303946" target="_blank" rel="noopener" onmouseover="this.style.color='orange';" onmouseout="this.style.color=''"><img alt="WhatsApp" src="https://img.icons8.com/?size=50&id=16733&format=png&color=EDEDED"/></a>
+    <a href="https://www.linkedin.com/in/joaovtfor/" target="_blank" rel="noopener" onmouseover="this.style.color='orange';" onmouseout="this.style.color=''"><img alt="LinkedIn" src="https://img.icons8.com/?size=50&id=8808&format=png&color=EDEDED"/></a>
+    <a href="mailto: joaovtfor@hotmail.com" target="_blank" rel="noopener" onmouseover="this.style.color='orange';" onmouseout="this.style.color=''"><img alt="E-Mail" src="https://img.icons8.com/?size=50&id=12623&format=png&color=EDEDED"/></a>
+  </div>
 </div>
 
 ##
