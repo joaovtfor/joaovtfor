@@ -3,7 +3,7 @@
   <style>
     :root {
       --cb: #1b1f230a;
-      --cs: gray;
+      --cs: white;
       --ce: #161b22;
       --c0: #161b22;
       --c1: #01311f;
