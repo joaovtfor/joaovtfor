@@ -14,11 +14,11 @@
 
 <div align="center" style="display: flex; flex-direction: column;">
   <h2 align="center" style="color: #FFFFFF; font-family: Noto Sans; font-size: 32px">Contacts</h2>
-  <div style="display: flex; flex-direction: row; justify-content: space-around;">
-    <a href="https://www.instagram.com/joaovtfor" target="_blank" rel="noopener" onmouseover="this.style.color='orange';" onmouseout="this.style.color=''"><img alt="Instagram" src="https://img.icons8.com/?size=50&id=32309&format=png&color=EDEDED"/></a>
-    <a href="https://wa.me/5554999303946" target="_blank" rel="noopener" onmouseover="this.style.color='orange';" onmouseout="this.style.color=''"><img alt="WhatsApp" src="https://img.icons8.com/?size=50&id=16733&format=png&color=EDEDED"/></a>
-    <a href="https://www.linkedin.com/in/joaovtfor/" target="_blank" rel="noopener" onmouseover="this.style.color='orange';" onmouseout="this.style.color=''"><img alt="LinkedIn" src="https://img.icons8.com/?size=50&id=8808&format=png&color=EDEDED"/></a>
-    <a href="mailto: joaovtfor@hotmail.com" target="_blank" rel="noopener" onmouseover="this.style.color='orange';" onmouseout="this.style.color=''"><img alt="E-Mail" src="https://img.icons8.com/?size=50&id=12623&format=png&color=EDEDED"/></a>
+  <div>
+    <a style="margin-right: 20px; margin-left: 20px;" href="https://www.instagram.com/joaovtfor" target="_blank" rel="noopener" onmouseover="this.style.color='orange';" onmouseout="this.style.color=''"><img alt="Instagram" src="https://img.icons8.com/?size=50&id=32309&format=png&color=EDEDED"/></a>
+    <a style="margin-right: 20px; margin-left: 20px;" href="https://wa.me/5554999303946" target="_blank" rel="noopener" onmouseover="this.style.color='orange';" onmouseout="this.style.color=''"><img alt="WhatsApp" src="https://img.icons8.com/?size=50&id=16733&format=png&color=EDEDED"/></a>
+    <a style="margin-right: 20px; margin-left: 20px;" href="https://www.linkedin.com/in/joaovtfor/" target="_blank" rel="noopener" onmouseover="this.style.color='orange';" onmouseout="this.style.color=''"><img alt="LinkedIn" src="https://img.icons8.com/?size=50&id=8808&format=png&color=EDEDED"/></a>
+    <a style="margin-right: 20px; margin-left: 20px;" href="mailto: joaovtfor@hotmail.com" target="_blank" rel="noopener" onmouseover="this.style.color='orange';" onmouseout="this.style.color=''"><img alt="E-Mail" src="https://img.icons8.com/?size=50&id=12623&format=png&color=EDEDED"/></a>
   </div>
 </div>
 
