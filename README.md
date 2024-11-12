@@ -13,7 +13,7 @@
 <img width="100%" src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0132.gif" border="0" alt="animated-dividing-line-image-0132"/>
 
 <div align="center" style="display: flex; flex-direction: column;">
-  <h2 align="center" style="color: #FFFFFF; font-family: Noto Sans, sans-serif; font-size: 36px">Technologies</h2>
+  <h2 align="center" fontSize="32px" style="color: #FFFFFF; font-family: Noto Sans, sans-serif; font-size: 36px""><b>Technologies</b></h2>
   <img src="https://skillicons.dev/icons?i=react,next,vuejs,angular,laravel,flutter" />
   <br></br>
   <img src="https://skillicons.dev/icons?i=javascript,python,cpp,java,dart,net,git,html,css" />
@@ -24,7 +24,7 @@
 <img width="100%" src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0132.gif" border="0" alt="animated-dividing-line-image-0132"/>
 
 <div align="center" style="display: flex; flex-direction: column;">
-  <h2 align="center" style="color: #FFFFFF; font-family: Noto Sans, sans-serif; font-size: 36px">Contacts</h2>
+  <h2 align="center" style="color: #FFFFFF; font-family: Noto Sans, sans-serif; font-size: 36px"><b>Contacts</b></h2>
   <div>
     <a style="margin-right: 20px; margin-left: 20px;" href="https://www.instagram.com/joaovtfor" target="_blank" rel="noopener" onmouseover="this.style.color='orange';" onmouseout="this.style.color=''"><img alt="Instagram" src="https://img.icons8.com/?size=50&id=32309&format=png&color=EDEDED"/></a>
     <a style="margin-right: 20px; margin-left: 20px;" href="https://wa.me/5554999303946" target="_blank" rel="noopener" onmouseover="this.style.color='orange';" onmouseout="this.style.color=''"><img alt="WhatsApp" src="https://img.icons8.com/?size=50&id=16733&format=png&color=EDEDED"/></a>
